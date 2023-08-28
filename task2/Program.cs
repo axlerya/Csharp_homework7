@@ -16,7 +16,7 @@ for (int rows = 0; rows < matrix.GetLength(0); rows++)
 
 Console.WriteLine("введите номер строки");
 int numRow = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("введите количномерество столбца");
+Console.WriteLine("введите номер столбца");
 int numColumn = Convert.ToInt32(Console.ReadLine());
 
 try
